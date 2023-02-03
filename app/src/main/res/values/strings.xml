@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="first_image">Space_1</string>
+    <string name="second_image">Space_2</string>
+    <string name="third_image">Space_3</string>
+    <string name="forth_image">Space_4</string>
+    <string name="author">James Webb Telescope</string>
+    <string name="year">2023</string>
+</resources>
